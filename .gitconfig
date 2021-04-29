@@ -1,0 +1,7 @@
+[user]
+    name = 50933113
+    email = 50933113@gm.nfu.edu.tw
+    
+[http]
+    proxy = http://[2001:288:6004:17::53]:3128
+    

@@ -25,7 +25,6 @@
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
@@ -151,11 +150,13 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="leo.20200818165234.1">@language xml
 @tabwidth -4
-@others</t>
+@others
+</t>
 <t tx="leo.20200818165301.1">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
-&lt;/html&gt;</t>
+&lt;/html&gt;
+</t>
 <t tx="leo.20200818165413.1">&lt;body&gt;
 @others
     &lt;script src="dist/reveal.js"&gt;&lt;/script&gt;
@@ -179,7 +180,8 @@ vertical: body pane on the botton</t>
         });
 
     &lt;/script&gt;
-&lt;/body&gt;</t>
+&lt;/body&gt;
+</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
@@ -199,132 +201,98 @@ vertical: body pane on the botton</t>
 
     &lt;!-- Theme used for syntax highlighting of code --&gt;
     &lt;link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme"&gt;
-&lt;/head&gt;</t>
+&lt;/head&gt;
+</t>
 <t tx="leo.20200818170041.1">&lt;div class="reveal"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170222.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
 &lt;div class="slides"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+    &lt;a href="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fwww.supermoto8.com%2Farticles%2F5395&amp;psig=AOvVaw0dBHWe9cw2uymZeIRIwDox&amp;ust=1619712474090000&amp;source=images&amp;cd=vfe&amp;ved=0CAIQjRxqFwoTCICH7rOpofACFQAAAAAdAAAAABAD"&gt;
+          &lt;img src="https://www.supermoto8.net/images/article/ffd18f660ba99465541fb02401d30b422.jpeg"reveal.js logo" style="height: 180pT;auto 4rem auto; background: transparent;" class="demo-logo"&gt;
     &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+    &lt;h3&gt;網際網路第八組報告&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;組員&lt;a href="50933113.github.io"&gt;    50933113&lt;/a&gt;  &lt;a href="50933137.github.io"&gt; 50933137&lt;/a&gt;&lt;a   href="50933139.github.io"&gt; 50933139&lt;/a&gt;&lt;a  href="50933129.github.io"&gt; 50933129&lt;/a&gt;
+        &lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
+    &lt;h2&gt;電腦設備&lt;/h2&gt;
+    &lt;h3&gt;硬體&lt;/h3&gt;
+    &lt;p&gt;輸入:鍵盤、滑鼠、麥克風、攝像頭、觸控螢幕&lt;/p&gt;
+    &lt;p&gt;輸出:螢幕、投影機、影印機、喇叭&lt;/p&gt;
+    &lt;p&gt;其他 :CPU、硬碟、記憶體、顯卡、善&lt;/p&gt;
+    &lt;p&gt;軟體:系統軟體、程式軟體&lt;/p&gt;
+    
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
+<t tx="leo.20200818170636.1">
 &lt;section&gt;
-    @others
-&lt;/section&gt;
+    &lt;H2&gt;硬體----CPU&lt;/H2&gt;
+    &lt;P&gt;CPU是什麼:&lt;/p&gt;
+    &lt;p&gt;電腦CPU即是電腦的(中央處理器)，是英文Central Processing Unit的縮寫，CPU性能的好壞直接決定整個電腦的性能，也就是電腦中最核心的硬體之一。&lt;/p&gt;
+    &lt;P&gt;作用:在電腦中負責一切的運算，也會有一個指揮的作用，例如:安排音效卡、網卡和顯卡在適當時候處理。&lt;/P&gt;
 
-</t>
-<t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;硬體------記憶體&lt;/h2&gt;
+    &lt;p&gt;電腦記憶體是甚麼:記憶體都是以晶片製造而成電腦記憶體或隨機存取記憶體（RAM）是系統的短期資料儲存區，存放電腦正在使用中的資訊，以便快速地存取 &lt;/p&gt;
+     &lt;P&gt;作用:電腦記憶體或隨機存取記憶體（RAM）是系統的短期資料儲存區，存放電腦正在使用中的資訊，以便快速地存取。
+&lt;/P&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;h2&gt;硬體------顯示卡&lt;/h2&gt;
+    &lt;p&gt;它主要負責把主機向顯示器發出的顯示訊號轉化為一般電器訊號，使得顯示器能明白個人電腦在讓它做什麼。顯示卡的主要晶片叫「顯示晶片」（Video chipset，圖形處理器或視覺處理器），是顯示卡的主要處理單元。顯示卡上也有和電腦記憶體相似的儲存器，稱為「顯示記憶體」，簡稱顯存。&lt;/P&gt;
+
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
+    &lt;h2&gt;硬體------硬碟&lt;/h2&gt;
+    &lt;p&gt;硬碟功能：儲存（文件、圖片、音樂、影片、程式……）&lt;/P&gt;
+&lt;P&gt;硬碟種類：HDD(傳統硬碟)、SSD(固態硬碟)&lt;/P&gt;
+&lt;P&gt;HDD（優點）：便宜、保存大量資料、耐用性高、功能性高&lt;/P&gt;
+        &lt;P&gt;（缺點）：需要很多能量、容易過熱、不適合裝在筆記型電腦。&lt;/P&gt;
+&lt;P&gt;SDD（優點）：低功耗、無噪音讀取速度快&lt;/P&gt;
+        &lt;P&gt;（缺點）：價格太高
+&lt;/P&gt;
     &lt;/a&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
+&lt;/section&gt;
+</t>
+<t tx="leo.20200818171138.1">&lt;section&gt;
+   &lt;h2&gt;軟體------應用程式&lt;/h2&gt;
+    &lt;p&gt;用於完成特定任務，而不僅僅是運行計算機系統。套用軟體可能由單個程式組成，例如影像檢視器：一小群程式（通常稱為軟體包），它們密切合作以完成任務，如電子表格或文本處理系統;更大的集合（通常稱為軟體套件）的相關，但獨立的程式和軟體包，具有一個共同的使用者介面或共用的數據格式
 
-        function Example() {
-          const [count, setCount] = useState(0);
+&lt;/P&gt;
 
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
+    &lt;h2&gt;軟體------系統軟體&lt;/h2&gt;
+    &lt;p&gt;負責控制、集成和管理計算機系統的各個硬體元件，以便其他軟體和系統使用者將其視為一個功能單元，而不必關注低級別的細節，例如將數據從記憶體傳輸到磁碟，或將文本渲染到顯示幕上。而常見的作業系統有：Windows,ios,Linox
+&lt;/P&gt;
 
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
-    &lt;/p&gt;
+     &lt;a href=""&gt;
+          &lt;img src=""reveal.js logo" style="height: 180pT;auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+    &lt;/a&gt;
+    &lt;h2&gt;The End
+    &lt;/h2&gt;
 &lt;/section&gt;
 
 </t>
@@ -413,7 +381,8 @@ vertical: body pane on the botton</t>
         This slide has fragments which are also stepped through in the notes window.
     &lt;/aside&gt;
 &lt;/section&gt;
- </t>
+ 
+</t>
 <t tx="leo.20200818194933.1">&lt;section&gt;
     &lt;h2&gt;Fragment Styles&lt;/h2&gt;
     &lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
@@ -429,7 +398,8 @@ vertical: body pane on the botton</t>
     &lt;p class="fragment fade-in-then-out"&gt;fade-in-then-out&lt;/p&gt;
     &lt;p class="fragment fade-in-then-semi-out"&gt;fade-in-then-semi-out&lt;/p&gt;
     &lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20200818195039.1">&lt;section id="themes"&gt;
     &lt;h2&gt;Themes&lt;/h2&gt;
     &lt;p&gt;
@@ -492,7 +462,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818195339.1">&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
     &lt;h2&gt;... and GIFs!&lt;/h2&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20200818195403.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h2&gt;Background Transitions&lt;/h2&gt;
     &lt;p&gt;
@@ -647,6 +618,7 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
